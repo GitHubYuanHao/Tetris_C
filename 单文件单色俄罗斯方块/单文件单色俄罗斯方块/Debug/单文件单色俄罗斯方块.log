@@ -1,0 +1,16 @@
+﻿  单文件单色俄罗斯方块.c
+d:\projects\单文件单色俄罗斯方块\单文件单色俄罗斯方块\单文件单色俄罗斯方块.c(76): warning C4142: 类型的良性重定义
+d:\projects\单文件单色俄罗斯方块\单文件单色俄罗斯方块\单文件单色俄罗斯方块.c(190): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          d:\program files\vs2013\vc\include\stdio.h(283) : 参见“scanf”的声明
+d:\projects\单文件单色俄罗斯方块\单文件单色俄罗斯方块\单文件单色俄罗斯方块.c(216): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+          d:\program files\vs2013\vc\include\conio.h(131) : 参见“getch”的声明
+d:\projects\单文件单色俄罗斯方块\单文件单色俄罗斯方块\单文件单色俄罗斯方块.c(239): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+          d:\program files\vs2013\vc\include\conio.h(131) : 参见“getch”的声明
+d:\projects\单文件单色俄罗斯方块\单文件单色俄罗斯方块\单文件单色俄罗斯方块.c(252): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          d:\program files\vs2013\vc\include\stdio.h(283) : 参见“scanf”的声明
+d:\projects\单文件单色俄罗斯方块\单文件单色俄罗斯方块\单文件单色俄罗斯方块.c(294): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\projects\单文件单色俄罗斯方块\单文件单色俄罗斯方块\单文件单色俄罗斯方块.c(603): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+          d:\program files\vs2013\vc\include\conio.h(131) : 参见“getch”的声明
+d:\projects\单文件单色俄罗斯方块\单文件单色俄罗斯方块\单文件单色俄罗斯方块.c(611): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+          d:\program files\vs2013\vc\include\conio.h(131) : 参见“getch”的声明
+  单文件单色俄罗斯方块.vcxproj -> D:\Projects\单文件单色俄罗斯方块\Debug\单文件单色俄罗斯方块.exe
